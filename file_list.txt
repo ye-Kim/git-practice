@@ -2,4 +2,4 @@ ignorefile1.txt
 ignorefile2.txt
 ignorefile3.txt
 README.md
-testfile1.txt
+testfile1.txt <-- deleted
